@@ -1,2 +1,3 @@
-# ddsg-docs
-Data-driven Security Game - Documentation
+# Data-driven Security Game (DdSG) Documentation
+
+Documentation and documents about DdSG open to the public.

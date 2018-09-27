@@ -14,3 +14,4 @@ Documents and data pertaining to DdSG open to the public.
 ## Documents
 
 - Includes Prestudy document.
+- Includes Master Thesis on DdSG.
